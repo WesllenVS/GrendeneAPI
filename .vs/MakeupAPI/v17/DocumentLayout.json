@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MakeupAPI\\MakeupAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\services\\senhaservice\\isenhainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\services\\senhaservice\\isenhainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\services\\senhaservice\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\services\\senhaservice\\senhaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\services\\authservice\\iauthinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\services\\authservice\\iauthinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|e:\\makeupapi\\makeupapi\\makeupapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0DAD00-F5C0-410D-A0C6-D972B37BA870}|MakeupAPI\\MakeupAPI.csproj|solutionrelative:makeupapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MakeupAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:30:21.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MakeupAPI\\appsettings.json",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\appsettings.json",
+              "RelativeToolTip": "MakeupAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T19:38:25.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISenhaInterface.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\SenhaService\\ISenhaInterface.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Services\\SenhaService\\ISenhaInterface.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\SenhaService\\ISenhaInterface.cs",
+              "RelativeToolTip": "MakeupAPI\\Services\\SenhaService\\ISenhaInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:12:43.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SenhaService.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\SenhaService\\SenhaService.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Services\\SenhaService\\SenhaService.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\SenhaService\\SenhaService.cs",
+              "RelativeToolTip": "MakeupAPI\\Services\\SenhaService\\SenhaService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:12:30.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\AuthService\\AuthService.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Services\\AuthService\\AuthService.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\AuthService\\AuthService.cs",
+              "RelativeToolTip": "MakeupAPI\\Services\\AuthService\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:52:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthInterface.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\AuthService\\IAuthInterface.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Services\\AuthService\\IAuthInterface.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Services\\AuthService\\IAuthInterface.cs",
+              "RelativeToolTip": "MakeupAPI\\Services\\AuthService\\IAuthInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:52:26.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Models\\UserModel.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Models\\UserModel.cs",
+              "RelativeToolTip": "MakeupAPI\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:52:16.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MakeupAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:29:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MakeupAPI\\Program.cs",
+              "ToolTip": "E:\\MakeupAPI\\MakeupAPI\\MakeupAPI\\Program.cs",
+              "RelativeToolTip": "MakeupAPI\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:52:54.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
