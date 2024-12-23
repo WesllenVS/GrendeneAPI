@@ -1,4 +1,5 @@
-﻿using MakeupAPI.Models;
+﻿using MakeupAPI.Interface;
+using MakeupAPI.Models;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -17,7 +18,7 @@ namespace MakeupAPI.Services.SenhaService
 
         public void CriarSenhaHash(string senha, out byte[] senhaHash, out byte[] senhaSalt)
         {
-            using (var hmac = new HMACSHA512())
+            using (var hmac = new HMACSHA512()) //TIREI O HMACSHA512 POR ESSE
             {
                 senhaSalt = hmac.Key;
                 senhaHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(senha));
@@ -39,6 +40,7 @@ namespace MakeupAPI.Services.SenhaService
             List<Claim> claims = new List<Claim>()
             {
                 new Claim("Cargo", usuario.Cargo.ToString()),
+                new Claim("Email", usuario.Email),
                 new Claim("UserName", usuario.Usuario),
             };
 

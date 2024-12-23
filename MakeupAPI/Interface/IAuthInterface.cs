@@ -1,7 +1,7 @@
 ﻿using MakeupAPI.Dto;
 using MakeupAPI.Models;
 
-namespace MakeupAPI.Services.User
+namespace MakeupAPI.Interface
 {
     public interface IAuthInterface
     {

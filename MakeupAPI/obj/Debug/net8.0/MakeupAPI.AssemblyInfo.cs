@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MakeupAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706594e1a00fc2ea8390fbcadcdbbb3d78ba1001")]
 [assembly: System.Reflection.AssemblyProductAttribute("MakeupAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MakeupAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

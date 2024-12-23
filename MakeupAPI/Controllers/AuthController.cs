@@ -1,5 +1,5 @@
 ﻿using MakeupAPI.Dto;
-using MakeupAPI.Services.User;
+using MakeupAPI.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

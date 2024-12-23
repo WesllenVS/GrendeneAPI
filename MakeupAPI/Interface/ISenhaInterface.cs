@@ -1,6 +1,6 @@
 ﻿using MakeupAPI.Models;
 
-namespace MakeupAPI.Services.SenhaService
+namespace MakeupAPI.Interface
 {
     public interface ISenhaInterface
     {

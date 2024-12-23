@@ -50,5 +50,25 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "MakeupAPI.Controllers.v1.ProductsController",
+    "Method": "GetProducts",
+    "RelativePath": "api/v1/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MakeupAPI.Controllers.v2.ProductsController",
+    "Method": "GetProducts",
+    "RelativePath": "api/v2/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

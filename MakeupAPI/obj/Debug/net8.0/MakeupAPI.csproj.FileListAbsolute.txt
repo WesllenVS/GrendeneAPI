@@ -167,3 +167,6 @@ E:\MakeupAPI\MakeupAPI\MakeupAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protoc
 E:\MakeupAPI\MakeupAPI\MakeupAPI\bin\Debug\net8.0\Scrutor.dll
 E:\MakeupAPI\MakeupAPI\MakeupAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 E:\MakeupAPI\MakeupAPI\MakeupAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\MakeupAPI\MakeupAPI\MakeupAPI\obj\Debug\net8.0\MakeupAPI.sourcelink.json
+E:\MakeupAPI\MakeupAPI\MakeupAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\MakeupAPI\MakeupAPI\MakeupAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll

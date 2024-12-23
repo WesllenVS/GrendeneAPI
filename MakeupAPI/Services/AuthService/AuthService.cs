@@ -1,7 +1,7 @@
 ﻿using MakeupAPI.Data;
 using MakeupAPI.Dto;
+using MakeupAPI.Interface;
 using MakeupAPI.Models;
-using MakeupAPI.Services.SenhaService;
 using Microsoft.EntityFrameworkCore;
 
 namespace MakeupAPI.Services.User
@@ -24,11 +24,11 @@ namespace MakeupAPI.Services.User
 
             try
             {
-                if (!VerificaUser(userRegistro))
+                if (!VerificaUsereEmail(userRegistro))
                 {
                     resposta.Dados = null;
                     resposta.Status = false;
-                    resposta.Mensagem = "Usuário já cadastrado";
+                    resposta.Mensagem = "Usuário/Email já cadastrado";
 
                     return resposta;
                 }
@@ -38,6 +38,7 @@ namespace MakeupAPI.Services.User
                 UserModel usuario = new UserModel()
                 {
                     Usuario = userRegistro.Usuario,
+                    Email = userRegistro.Email,
                     Cargo = userRegistro.Cargo,
                     SenhaHash = senhaHash,
                     SenhaSalt = senhaSalt,
@@ -67,7 +68,7 @@ namespace MakeupAPI.Services.User
 
             try
             {
-                var usuario = await _context.Users.FirstOrDefaultAsync(userBanco => userBanco.Usuario == userLogin.Usuario);
+                var usuario = await _context.Users.FirstOrDefaultAsync(userBanco => userBanco.Email == userLogin.Email); 
 
                 if (usuario == null)
                 {
@@ -99,9 +100,10 @@ namespace MakeupAPI.Services.User
             return resposta;
         }
 
-        public bool VerificaUser(UserCreateDto userRegistro)
+        public bool VerificaUsereEmail(UserCreateDto userRegistro)
         { 
-            var user = _context.Users.FirstOrDefault(userBanco => userBanco.Usuario == userRegistro.Usuario);
+            var user = _context.Users.FirstOrDefault(userBanco => userBanco.Usuario == userRegistro.Usuario || 
+                                                     userBanco.Email == userRegistro.Email);
 
             if (user != null) return false;
 
